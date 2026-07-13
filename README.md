@@ -407,24 +407,27 @@ Long-Term Vision:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asad-anwar6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-anwar6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=asad-anwar6&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-anwar6&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=asad-anwar6&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=asad-anwar6&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asad-anwar6&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img src="https://img.shields.io/badge/Repositories-Growing-4F46E5?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-D7263D?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active%20Since-2025-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2EC866?style=for-the-badge"/>
 
 </div>
 
@@ -434,27 +437,7 @@ Long-Term Vision:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-anwar6&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 📑 GitHub Summary Cards
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asad-anwar6&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asad-anwar6&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asad-anwar6&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asad-anwar6&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asad-anwar6&theme=tokyonight&utcOffset=5"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-anwar6&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
